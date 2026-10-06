@@ -931,12 +931,12 @@ export default function WeddingInvitation() {
               </section>
 
               {/* Footer */}
-              <footer className="py-12 border-t border-theme-200/30 text-center relative z-10 space-y-3">
+              <footer className="py-12 border-t border-theme-200/30 text-center relative z-10 space-y-4">
                 <p className="text-[8px] md:text-[10px] uppercase tracking-[0.5em] text-stone-400 font-bold">
                   © 2026 Hansi & Dhananjaya. <span className="hidden md:inline">|</span><br className="md:hidden block mt-2" /> All rights reserved.
                 </p>
-                <p className="text-[8px] md:text-[10px] tracking-[0.3em] text-stone-400">
-                  Contact: <a href="tel:0740595174" className="text-theme-600 font-bold hover:text-theme-800 transition-colors">Hansi – 074 059 5174</a> | <a href="tel:0779837011" className="text-theme-600 font-bold hover:text-theme-800 transition-colors">Dhananjaya – 077 983 7011</a>
+                <p className="text-stone-500 text-[10px] md:text-xs mt-4 font-sans tracking-wider uppercase">
+                  Want a beautiful wedding website like this?<br className="md:hidden block mt-1" /> Create yours with <a target="_blank" rel="noreferrer" className="text-theme-600 hover:text-theme-800 font-bold underline transition-colors" href="https://wa.me/94707819074">InviteMint</a>
                 </p>
               </footer>
             </div>
