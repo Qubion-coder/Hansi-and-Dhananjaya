@@ -809,7 +809,7 @@ export default function WeddingInvitation() {
 
                     <div className="pt-8 w-full md:w-auto">
                       <button
-                        onClick={() => window.open('https://maps.app.goo.gl/V9nJFsT4HpppWvw97', '_blank')}
+                        onClick={() => window.open('https://maps.app.goo.gl/QDk4se3rNXm24S6a6', '_blank')}
                         className="w-full md:w-auto flex items-center justify-center gap-4 bg-theme-800 text-white px-10 py-5 rounded-full font-bold uppercase tracking-[0.2em] text-[10px] md:text-xs hover:bg-theme-900 hover:shadow-xl hover:shadow-theme-900/20 transition-all duration-300 group"
                       >
                         <MapPin className="w-4 h-4 group-hover:-translate-y-1 transition-transform duration-300" />
