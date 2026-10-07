@@ -44,8 +44,8 @@ export default function Admin() {
   };
 
   return (
-    <div className="min-h-screen bg-[#fdfaf5] font-montserrat flex items-center justify-center p-4">
-      <div className="bg-white p-8 rounded-2xl shadow-xl border border-theme-200 max-w-2xl w-full">
+    <div className="h-[100dvh] w-full overflow-y-auto bg-[#fdfaf5] font-montserrat smooth-mobile-scroll p-4 py-12 md:py-24 flex">
+      <div className="bg-white p-6 md:p-8 rounded-2xl shadow-xl border border-theme-200 max-w-2xl w-full mx-auto h-fit">
         <h1 className="font-playball text-4xl text-theme-800 mb-6 text-center">Invitation Link Generator</h1>
         
         <div className="space-y-6">
